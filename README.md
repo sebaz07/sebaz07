@@ -33,4 +33,15 @@
   ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 <br>
-</p>
+
+## Certifications & Courses
+
+| Certification/Course   | Institution         | Date Completed        |
+|------------------------|---------------------|------------------------|
+| Basic C#               | SpAcademy           | november 2023            |
+| RestFul Apis           | SpAcademy           | december 2023            |
+| Aws Cloud Practitiones | SpAcademy and AWS   | january 2024          |
+| Basics docker and kubernetes | SpAcademy  | january 2024        |
+| Basic concepts of Git   | SpAcademy       | january 2024          |
+|Basic Unit Testing|SpAcademy| January 2024
+
