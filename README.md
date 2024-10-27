@@ -38,6 +38,9 @@
 
 | Certification/Course           | Institution        | Date Completed        |
 |--------------------------------|--------------------|------------------------|
+| Cybersecurity Tools and Technologies             | Microsoft                   | In Progress               |
+| Professional Certificate in Cybersecurity        | Google                      | In Progress               |
+| Docker Essentials                                | Cognitive Class             | In Progress               |
 |Google AI Essentials| Coursera | October 2024 |
 | Technical Support Processes for Computer Equipment Maintenance | SENA Colombia| April 1, 2024  |
 | Cybersecurity                  | MinTic Colombia    | March 2024            |
