@@ -36,12 +36,17 @@
 
 ## Certifications & Courses
 
-| Certification/Course   | Institution         | Date Completed        |
-|------------------------|---------------------|------------------------|
-| Basic C#               | SpAcademy | november 2023 |
-| RestFul Apis           | SpAcademy           | december 2023            |
-| Aws Cloud Practitiones | SpAcademy and AWS   | january 2024          |
-| Basics docker and kubernetes | SpAcademy  | january 2024        |
-| Basic concepts of Git   | SpAcademy       | january 2024          |
-|Basic Unit Testing|SpAcademy| January 2024
+| Certification/Course           | Institution        | Date Completed        |
+|--------------------------------|--------------------|------------------------|
+|Google AI Essentials| Coursera | October 2024 |
+| Technical Support Processes for Computer Equipment Maintenance | SENA Colombia| April 1, 2024  |
+| Cybersecurity                  | MinTic Colombia    | March 2024            |
+| Javascript Introduction        | MinTic Colombia    | March 2024            |
+| Basic Unit Testing             | SpAcademy          | January 2024          |
+| Basic concepts of Git          | SpAcademy          | January 2024          |
+| Basics of Docker and Kubernetes| SpAcademy          | January 2024          |
+| AWS Cloud Practitioner         | SpAcademy and AWS  | January 2024          |
+| RestFul APIs                   | SpAcademy          | December 2023         |
+| Basic C#                       | SpAcademy          | November 2023         |
+
 
