@@ -38,7 +38,7 @@
 
 | Certification/Course   | Institution         | Date Completed        |
 |------------------------|---------------------|------------------------|
-| Basic C#               |  ![Kali](https://academy.sophossolutions.com/pluginfile.php/1/theme_edumy/headerlogo2/1709938733/MicrosoftTeams-image%20%2874%29%20%282%29.png) SpAcademy | november 2023 |
+| Basic C#               | SpAcademy | november 2023 |
 | RestFul Apis           | SpAcademy           | december 2023            |
 | Aws Cloud Practitiones | SpAcademy and AWS   | january 2024          |
 | Basics docker and kubernetes | SpAcademy  | january 2024        |
