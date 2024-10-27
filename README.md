@@ -2,10 +2,20 @@
 <p align="center">
 
  
-## About me
+## About Me
 
-- :school: I am a `Junior Developer` at engineering faculty at [Politecnico internacional University](https://www.politecnicointernacional.edu.co/sw/es).
-- :technologist: I like to found new ways to `innovate`. 
-- :student: I’m currently learning `Software development` and soon im going to start my `software engineer career`.
-- :nerd_face: Always `learning new things` and improving my IT skills.
+- :school: I am a `Junior Developer` in the Engineering Faculty at [Politecnico Internacional University](https://www.politecnicointernacional.edu.co/sw/es).
+- :technologist: I enjoy finding innovative ways to solve challenges.
+- :student: Currently, I’m learning `Software Development` and planning to start my `Software Engineering` degree soon.
+- :nerd_face: Constantly `learning new things` to improve my IT skills.
+- :dart: I am passionate about leveraging technology to create impactful solutions and aim to advance in areas like DevOps and backend development.
+- :zap: Driven by curiosity and a strong desire to contribute, I’m excited about the future of technology and my journey in the field.
+
+## Technical Skills
+
+- **Languages**: Python, C#, JavaScript
+- **Frameworks**: Flask, ASP.NET
+- **Tools**: Docker, Git, Prometheus, Grafana
+
 <br>
+</p>
