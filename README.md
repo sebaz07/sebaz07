@@ -47,6 +47,7 @@
 | Basics of Docker and Kubernetes| SpAcademy          | January 2024          |
 | AWS Cloud Practitioner         | SpAcademy and AWS  | January 2024          |
 | RestFul APIs                   | SpAcademy          | December 2023         |
+| ScrumFundamentalsCertified     | ScrumStudy         | December 2023         |
 | Basic C#                       | SpAcademy          | November 2023         |
 
 
