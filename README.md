@@ -4,7 +4,6 @@
  
 ## About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 - :school: I am a `Junior Developer` at engineering faculty at [Politecnico internacional University](https://www.politecnicointernacional.edu.co/sw/es).
 - :technologist: I like to found new ways to `innovate`. 
 - :student: I’m currently learning `Software development` and soon im going to start my `software engineer career`.
