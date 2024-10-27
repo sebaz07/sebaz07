@@ -1,4 +1,4 @@
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <h1 align="center">Hi , I'm Sebastian Martinez</h1>
+ <h1 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Hi , I'm Sebastian Martinez</h1>
 <p align="center">
 <br>
 
